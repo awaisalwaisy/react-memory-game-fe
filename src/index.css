@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .page {
-    @apply grid place-content-center min-h-screen bg-gray-100;
+    @apply grid place-content-center min-h-screen dark text-foreground bg-background;
 }
